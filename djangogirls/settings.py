@@ -26,7 +26,7 @@ SECRET_KEY = '^e+%vcmun&962ux!u@6izj*nu!xts#gx_7n0)bvkfp9wc38&%4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com','srinathblogpost.herokuapp.com','cryptic-beach-21120.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com','srinathblogpost.herokuapp.com','srinath-blogpost.herokuapp.com' ]
 
 
 # Application definition
